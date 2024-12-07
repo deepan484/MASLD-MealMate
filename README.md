@@ -59,8 +59,12 @@ cd MASLD-Meal-Mate
 
 ### 2. Install Dependencies
 
-```bash
-pip install -r requirements.txt
+``` Install the below libraries alone :
+os
+telebot
+types (from telebot)
+dotenv
+google.generativeai
 ```
 
 ### 3. Set Up Telegram Bot
