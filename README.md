@@ -79,7 +79,7 @@ google.generativeai
 ### 5. Run the Bot
 
 ```bash
-python main.py
+python final_nutri.py
 ```
 
 ---
