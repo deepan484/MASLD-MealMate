@@ -1,12 +1,6 @@
-Here's an improved and visually appealing version of the README.md for your project, incorporating headings, bullet points, and images to enhance its visual appeal. I've also included some icons using Markdown syntax and a placeholder for your image (`image.png`).
-
-```markdown
 # :fast_food: **MASLD Meal Mate** - Personalized Diet Recommendations
 
 **MASLD Meal Mate** is a **Telegram bot** designed to provide **Kerala-based diet recommendations** for individuals suffering from **Metabolic-Associated Steatotic Liver Disease (MASLD)**. It generates personalized meal plans using **Generative AI (Gemini LLM)** based on the user's dietary preferences, exercise habits, allergies, and calorie requirements.
-
-![MASLD Meal Mate](image.png)
-
 ---
 
 ## :sparkles: Features
